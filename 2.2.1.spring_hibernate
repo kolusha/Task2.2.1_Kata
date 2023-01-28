@@ -1,0 +1,92 @@
+Microsoft Windows [Version 10.0.22000.1455]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>C:\Users\yanov\PP_2_2_1_spring_hibernate>Reinitialized existing Git repository in C:/Users/yanov/PP_2_2_1_spring_hibernate/.git/
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   2.2.1. spring_hibernate/pom.xml
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/model/User.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java
+	modified:   2.2.1. spring_hibernate/src/main/resources/db.properties
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	2.2.1. spring_hibernate/spring-hibernate.iml
+	2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java
+	2.2.1. spring_hibernate/target/
+	2.2.1.spring_hibernate
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>Reinitialized existing Git repository in C:/Users/yanov/PP_2_2_1_spring_hibernate/.git/
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   2.2.1. spring_hibernate/pom.xml
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/model/User.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java
+	modified:   2.2.1. spring_hibernate/src/main/resources/db.properties
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	2.2.1. spring_hibernate/spring-hibernate.iml
+	2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java
+	2.2.1. spring_hibernate/target/
+	2.2.1.spring_hibernate
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
+C:\Users\yanov\PP_2_2_1_spring_hibernate>On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   2.2.1. spring_hibernate/pom.xml
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/model/User.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java
+	modified:   2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java
+	modified:   2.2.1. spring_hibernate/src/main/resources/db.properties
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	2.2.1. spring_hibernate/spring-hibernate.iml
+	2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java
+	2.2.1. spring_hibernate/target/
+	2.2.1.spring_hibernate
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\yanov\PP_2_2_1_spring_hibernate>
