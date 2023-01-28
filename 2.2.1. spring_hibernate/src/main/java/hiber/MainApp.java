@@ -1,15 +1,5 @@
 package hiber;
 
-//Не забудьте про toString
-//Запустил только после:
-//        hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
-//        и
-//        props.put("hibernate.dialect", env.getProperty("hibernate.dialect"));
-//8 часов потрачено на
-//        factoryBean.setAnnotatedClasses(User.class, Car.class);
-//        hibernate.hbm2ddl.auto=create-drop
-//По факту там Класс_1.Поле_в_классе_1_по_которому_JoinColumn.Поле_в_классе_2
-
 import hiber.config.AppConfig;
 import hiber.model.Car;
 import hiber.model.User;
